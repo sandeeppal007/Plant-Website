@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Montserrat:wght@800;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Abel',sans-serif;
+   
+
+}
+
+
+
+#navbarMonstera{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+    font-weight: 100;
+    margin-bottom:auto ;
+}
+
+#navMid
+
+{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 5em;
+    font-size: 1.5rem;
+   
+
+}
+#navMid h4:hover{
+    font-weight: 800;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+  
+}
+#navEnd{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    gap: 3rem;
+}
+
+
+#midWhole{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-top: 6rem; */
+    /* width: 100%; */
+
+
+}
+#monstera{
+  font-size: 9rem;
+  font-weight: 800;
+  font-family: 'Montserrat',sans-serif;
+
+}
+
+#midWholePart1{
+    display:flex;
+    justify-content:baseline;
+ 
+    flex-direction: column;
+   gap: 4rem;
+   margin-left: 5rem;
+
+
+ 
+}
+#midWholePart11{
+
+}
+#midWholePart11 li{
+    font-size: 2rem;
+    font-weight: 600;
+    
+
+
+
+}
+
+#midWholePart12{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+background-color:#466D50;
+border-radius: 2rem;
+text-align: center;
+width: 20rem;
+padding: 1rem 2rem;
+color: #fff;
+
+    
+    
+    }
+    
+
+#midWholePart121{
+ 
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
+
+ }
+
+ #midWholePart13{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    /* width: 80%; */
+    margin-top: 2rem;
+ }
+
+ .midWholePart13Parts{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+    gap: 2rem;
+    margin-right: 1rem;
+
+ }
+ .midWholePart13Parts h4{
+    font-size: 1.3rem;
+    font-weight: 900;
+  font-family: 'Allerta',sans-serif;
+
+
+ }
+ .text{
+    font-size: 1.3rem;
+    font-weight: 400;
+    white-space: no-wrap;
+ }
+#right-section{
+width: 60%;
+
+}
+ #imgMain{
+  width: 100%;
+
+ }
+
